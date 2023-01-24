@@ -1,0 +1,33 @@
+.content {
+    background-color: aqua;
+    color: brown;
+    font-size: 30px;
+}
+
+.head {
+    height: 150px;
+    width:150px;
+    background-color: antiquewhite;
+}
+
+#title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    color: chartreuse;
+    transition: 0.3s;
+
+}
+
+#title:hover {
+    font-style: italic;
+    color: blue;
+}
+
+#abt {
+    text-decoration: none;
+    color: blueviolet;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    ;
+    font-size: 30px;
+}
+    
